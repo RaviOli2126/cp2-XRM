@@ -1,5 +1,5 @@
 # Receta de Kebab de hamburguesa
-![alt text](image.png)
+![durum](kebab_de_hamburguesa_61359_600.webp)
 
 Hay recetas que surgen del ingenio porque cuando vamos a prepararlas nos falta algún ingrediente. 
 En este caso, la idea de envolver la hamburguesa en un pan durum o [tortilla de maíz](https://www.recetasgratis.net/receta-de-tortillas-mexicanas-de-maiz-55347.html) fue premeditado 
