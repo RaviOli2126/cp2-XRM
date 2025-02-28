@@ -1,5 +1,5 @@
 # Receta de Kebab de hamburguesa
-![durum](kebab_de_hamburguesa_61359_600.webp)
+![durum](Fotos/kebab_de_hamburguesa_61359_600.webp)
 
 Hay recetas que surgen del ingenio porque cuando vamos a prepararlas nos falta algún ingrediente. 
 En este caso, la idea de envolver la hamburguesa en un pan durum o [tortilla de maíz](https://www.recetasgratis.net/receta-de-tortillas-mexicanas-de-maiz-55347.html) fue premeditado 
@@ -34,18 +34,18 @@ También te puede interesar: [Receta de Kebab de salchicha](https://www.recetasg
 
 ## Cómo hacer Kebab de hamburguesa:
 1. Lo primero que tenemos que hacer para preparar este kebab de hamburguesa es pintar la plancha o una sartén con un chorro de aceite de oliva y **hacer las hamburguesas** por los dos lados. El punto que quieres de la carne lo eliges tú pero a mí me gusta que esté al punto.
-<img src="Carne.png" width="200"/>
+<img src="Fotos/Carne.png" width="200"/>
 
 2. En cada uno de los panes de durum o [panes de pita](https://www.recetasgratis.net/receta-de-pan-de-pita-57801.html) ponemos en el centro salsa para kebab, un puñado de rodajas de pepinillo y una loncha de queso. Encima ponemos la [hamburguesa de ternera](https://www.recetasgratis.net/receta-de-hamburguesas-para-halloween-59640.html) y la cubrimos con otra loncha de queso.
-<img src="pita_bread.webp" width="200"/>
+<img src="Fotos/pita_bread.webp" width="200"/>
 
 3. Cerramos el pan dándole forma de paquete a los kebabs de hamburguesa y los **metemos en el gril** para que se tuesten ligeramente y se sellen.
-<img src="KG160A_1_1200_1200px.png" width="200"/>
+<img src="Fotos/KG160A_1_1200_1200px.png" width="200"/>
 
 &emsp;&ensp;&nbsp;_**Truco:** Si no tenemos grill la podemos hacer vuelta y vuelta en la misma sartén en que que hemos hecho la hamburguesa._
 
 4. Servimos y disfrutamos de nuestro **kebab de hamburguesa** solo o acompañado de unas [patatas al horno](https://www.recetasgratis.net/receta-de-patatas-al-horno-con-romero-59622.html) o una [ensalada de apio, tomate y aguacate](https://www.recetasgratis.net/receta-de-patatas-al-horno-con-romero-59622.html). ¡Buen provecho!
-<img src="Patatas_al_horno.png" width="200"/>
+<img src="Fotos/Patatas al horno.png" width="200"/>
 
 Si te ha gustado la receta de **Kebab de hamburguesa**, te sugerimos que entres en nuestra categoría de [Recetas de wraps](https://www.recetasgratis.net/Wraps-busqCate-1.html).
 
